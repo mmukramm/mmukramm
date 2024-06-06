@@ -1,0 +1,26 @@
+## Hi there 👋, I'm Mukram
+
+### Tech Skill
+<p>
+  <a href="https://github.com/topics/dart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0A66C2?style=flat&color=2BB1EE&logo=Dart&logoColor=white"></a>
+  <a href="https://github.com/topics/figma"><img alt="Figma" src="https://img.shields.io/badge/Figma-23F24E1E?style=flat&color=09C47C&logo=Figma&logoColor=white"></a>
+</p>  
+
+### Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mmukramm&show_icons=true" />
+
+<!--
+**mmukramm/mmukramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
