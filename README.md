@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mukram
 
-I am an undergraduate student who is interested in mobile development, especially application development using Flutter and Android Native with Java.
+I am an undergraduate student who is interested in mobile development, especially application development using Flutter.
 
 ### Tech Skill
 <p>
