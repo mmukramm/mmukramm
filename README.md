@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mukram
 
-I am an undergraduate student who is interested in mobile development, especially application development using Flutter.
+I am a Software Engineer with strong UI/UX skills to deliver clean, scalable features end-to-end with focused on building fast, reliable, and thoughtfully designed Apps.
 
 ### Tech Skill
 <p>
