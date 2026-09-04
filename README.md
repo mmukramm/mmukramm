@@ -7,6 +7,7 @@ I am a Software Engineer with strong UI/UX skills to deliver clean, scalable fea
   <a href="https://github.com/topics/nextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-02569B?style=flat&color=black&logo=Next.js&logoColor=white"></a>
   <a href="https://github.com/topics/astro"><img alt="Astro" src="https://img.shields.io/badge/Astro-02569B?style=flat&color=BC52EE&logo=Astro&logoColor=white"></a>
   <a href="https://github.com/topics/react"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&color=20232A&logo=React&logoColor=61DAFB"></a>
+  <a href="https://github.com/topics/vue"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-20232A?style=flat&color=35495E&logo=vuedotjs&logoColor=#4FC08D%22"></a>
   <a href="https://github.com/topics/express"><img alt="Express" src="https://img.shields.io/badge/Express-02569B?style=flat&color=000000&logo=Express&logoColor=white"></a>
   <a href="https://github.com/topics/flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&color=02569B&logo=Flutter&logoColor=white"></a>
 </p>
